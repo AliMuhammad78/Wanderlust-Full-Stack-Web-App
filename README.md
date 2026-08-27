@@ -15,7 +15,7 @@ This project was built as a hands-on learning project while following the web de
 Wanderlust allows users to interact with a travel/property listing platform through a complete web application.
 
 The application provides functionality for:
-
+ 
 * 👤 User registration and login
 * 🔐 Authentication and authorization
 * 🏠 Creating property listings
