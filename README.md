@@ -700,7 +700,7 @@ Building this project allowed me to practice a broad range of web development co
 * EJS layouts
 * EJS partials
 * Dynamic rendering
-* Forms
+* Forms 
 
 ### File Handling
 
