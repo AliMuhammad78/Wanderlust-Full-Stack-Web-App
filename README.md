@@ -69,7 +69,7 @@ The application provides functionality for:
 | wrapAsync    | Async error handling                         |
 | Middleware   | Authentication, authorization and validation |
 
-## Image Upload & Storage
+## Image Upload & Storage 
 
 | Technology            | Purpose                              |
 | --------------------- | ------------------------------------ |
