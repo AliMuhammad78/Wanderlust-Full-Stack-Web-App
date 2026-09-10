@@ -28,7 +28,7 @@ The application provides functionality for:
 * 👑 Listing ownership management
 * ✅ Server-side validation
 * ⚠️ Custom error handling
-* 💬 Flash messages
+* 💬 Flash messages 
 * 🔄 Session management
 * 🗄️ MongoDB database integration
 * 🧩 MVC-based backend architecture
