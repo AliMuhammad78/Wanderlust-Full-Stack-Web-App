@@ -107,7 +107,7 @@ The application stores the authenticated user's identity in the session and make
 ---
 
 ## 🔐 Authorization
-
+ 
 Authentication and authorization are handled separately.
 
 The application verifies that:
