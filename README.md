@@ -8,7 +8,7 @@ This project was built as a hands-on learning project while following the web de
 
 > **Learning Project:** This repository represents my implementation and practice while following the Apna College course. The project idea and overall development flow were based on the course material. 
  
----   
+---    
  
 ## 🌐 Project Overview
 
