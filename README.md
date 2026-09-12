@@ -1,5 +1,5 @@
 # 🏡 Wanderlust 
- 
+  
 ### Full-Stack Travel & Property Listing Platform 
 
 Wanderlust is a full-stack web application inspired by the core experience of platforms like Airbnb, where users can explore property listings, create their own listings, upload images, write reviews, and manage their content through an authenticated account.
