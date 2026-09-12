@@ -4,7 +4,7 @@
 
 Wanderlust is a full-stack web application inspired by the core experience of platforms like Airbnb, where users can explore property listings, create their own listings, upload images, write reviews, and manage their content through an authenticated account.
 
-This project was built as a hands-on learning project while following the web development course tutorials by **Apna College**. The project gave me practical experience with backend development, databases, authentication, authorization, MVC architecture, server-side rendering, image handling, validation, middleware, and full-stack application structure.
+This project was built as a hands-on learning project while following the web development course tutorials by **Apna College**. The project gave me practical experience with backend development, databases, authentication, authorization, MVC architecture, server-side rendering, image handling, validation, middleware, and full-stack application structure. 
 
 > **Learning Project:** This repository represents my implementation and practice while following the Apna College course. The project idea and overall development flow were based on the course material. 
 
