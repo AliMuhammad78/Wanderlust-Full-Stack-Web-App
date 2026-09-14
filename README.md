@@ -60,7 +60,7 @@ The application provides functionality for:
 | Cookie Parser           | Cookie handling                          |
 | Connect Flash           | Success/error messages                   |
 
-## Validation & Error Handling
+## Validation & Error Handling 
 
 | Technology   | Purpose                                      |
 | ------------ | -------------------------------------------- |
